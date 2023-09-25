@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Goldman;
+    src: url(fonts/Goldman-Regular.ttf);
+}
+@font-face {
+    font-family: Goldman;
+    src: url(fonts/Goldman-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: Inter ;
+    src: url(fonts/static/Inter-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Inter ;
+    src: url(fonts/static/Inter-Bold.ttf);
+    font-weight: bold;
+}
